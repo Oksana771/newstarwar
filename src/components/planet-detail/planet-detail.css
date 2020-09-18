@@ -1,0 +1,24 @@
+.planet-detail{
+    display: flex;
+    padding: 20px !important;
+    align-items: flex-start;
+}
+.planet-detail .planet-image{
+    width: 150px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+ 
+.planet-detail .list-group{
+    margin: 10px 0;
+}
+.planet-detail .list-group .list-group-item{
+    border-style: none none solid none;
+    padding: 7px;
+}
+.planet-detail .list-group .list-group-item:last-of-type{
+    border-style: none;
+}
+.planet-detail .list-group .list-group-item .tern{
+    margin-right: 5px;
+}

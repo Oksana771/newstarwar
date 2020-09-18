@@ -1,0 +1,15 @@
+
+
+--------
+constructor() ==> render() ==> componentDidMount()
+
+--------
+New props 
+        ==> componentDidUpdate();
+setState()
+
+---------
+componentWillUnmount()
+
+------
+componentDidCatch()

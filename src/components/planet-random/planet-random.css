@@ -1,0 +1,25 @@
+.planet-random{
+    display: flex;
+    padding: 20px;
+    align-items: center;
+}
+
+.planet-random .planet-image{
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+.planet-random .list-group{
+    margin: 10px 0 0 10px;
+}
+.planet-random .list-group .list-group-item{
+    border-style: none none solid none;
+    padding: 7px;
+}
+.planet-random .list-group .list-group-item:last-of-type{
+    border-style: none;
+}
+.planet-random .list-group .list-group-item .tern{
+    margin-right: 5px;
+}

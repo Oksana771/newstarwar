@@ -1,0 +1,24 @@
+.starship-detail{
+    display: flex;
+    padding: 20px !important;
+    align-items: flex-start;
+}
+.starship-detail .starship-image{
+    width: 150px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+ 
+.starship-detail .list-group{
+    margin: 10px 0;
+}
+.starship-detail .list-group .list-group-item{
+    border-style: none none solid none;
+    padding: 7px;
+}
+.starship-detail .list-group .list-group-item:last-of-type{
+    border-style: none;
+}
+.starship-detail .list-group .list-group-item .tern{
+    margin-right: 5px;
+}
